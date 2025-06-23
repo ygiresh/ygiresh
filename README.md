@@ -1,5 +1,3 @@
-<!--## Hi there 👋
-
 # 👋 Hi there, I'm Giresh
 
 🎯 **Technical Leader | Senior Software Engineer | Application Architect | Certfied Agile Project Management Professional**  
